@@ -1,0 +1,95 @@
+*{
+    margin: 0%;
+}
+.c1{
+    background-image: url(frondendimg.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+
+}
+.c2{
+    background-image:url(htmlimg.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.c3{
+        background-image: url(cssimg.jpg);
+        height: 100vh;
+        width:100vw;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-attachment: fixed;
+}
+.c4{
+    background-image: url(js2img.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.c5{
+    background-image: url(jsimg.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+.c6{
+    background-image: url(backendimg.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.c7{
+    background-image: url(nodejsimg.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.c8{
+    background-image: url(pythonimg.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.c11{
+    background-image: url(mongodbimg.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.c9{
+    background-image: url(sqlimg.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.c10{
+    background-image: url(mernimg.jpg);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
